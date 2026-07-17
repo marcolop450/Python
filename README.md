@@ -31,3 +31,16 @@ Mi trabajo para creacion de Proyectos Python y aprendizaje
 - Sacar Caracterer en posicion negativas es una rotacion atras
 - Rotar una Cadena Completa
 - Viendo varios tipos de funciones
+### 04_Listas.py
+- Iniciamos con tipos de Estructuras de Datos **Vectores, Lista o Arreglo de una dimension**
+- Declaramos variables de Lista y a a la vez creacion
+- Revisamos el tamaño de cada lista
+- Se puede colocar mas tipos de datos en una lista y repetidos
+- El type sin importar los datos de la lista devuelve que es "list"
+- **Recordar que el indice inicial de la lista es 0 no 1**
+- Se puede usar Negativos como indice para ir desde atras, pero el ultimo es -1
+- Funciones para Lista
+- Sacar datos de una Lista en varias variables de golpe
+- Se puede concatenar listas con el +
+- No existe variables Constantes pero se Recomienda Usar MAYUSCULAS para no cambiar su datos
+- Manejo de varios datos en una lista
