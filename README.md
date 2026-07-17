@@ -43,4 +43,47 @@ Mi trabajo para creacion de Proyectos Python y aprendizaje
 - Sacar datos de una Lista en varias variables de golpe
 - Se puede concatenar listas con el +
 - No existe variables Constantes pero se Recomienda Usar MAYUSCULAS para no cambiar su datos
-- Manejo de varios datos en una lista
+- Metodos para poder insertar, añadir y modificr
+- Metodos para poder eliminar, remover y copiar
+- Invertir una Lista completa
+- Ordenar elementos de una Lista **Da error si trabaja con listas mixtas**
+
+## Dia 2
+### 05_Tuplas.py
+- Vimos como declarar una tupla y maneja datos mixtos igual que una lista
+- Tambien se puede acceder a los elementos de una tupla
+- Tupla solo tiene index y count
+- No se puede modificar una tupla
+- Tambien se puede concatenar tuplas
+- Una tupla se puede convertir a lista y viceversa
+- Se puede usar Del en una Tupla lo elimina de forma general
+### 06_Sets.py
+- Iniciamos con la declaracion de Sets y su tipo
+- Se puede sacar la longitud de un set y añadir a los elementos
+- No se puede acceder a los elementos con el indice debido a que set no esta ordenado
+- Existencia de un elemento en un set
+- Remover un elemento de un set
+- Si hago un clear del set se elimina todos los elementos
+- Convertir un set a lista y viceversa
+- Union de sets
+- Diferencia de sets
+### 07_Diccionario.py
+- Iniciamos con la declaracion de diccionarios y su tipo
+- Colocar datos en un diccionario y ver de forma general
+- Diccionario guarda datos en formato clave-valor
+- Sacar datos de un diccionario y modificarlos
+- Añadir una nueva clave-valor a un diccionario
+- Eliminar una clave-valor de un diccionario
+- Revisar si un diccionario tiene una clave
+- Funciones para diccionarios
+- Una lista de Claves pasar a un diccionario
+### 08_Condicionales.py
+- Iniciamos con la declaracion de condicionales
+- Uso de If
+- Uso de Else
+- Condiciones multiples
+- Uso de elif
+- Condiciones con strings
+- Prueba de igualdad
+- Uso del Not para negar una condicion T -> F y F -> T
+### 

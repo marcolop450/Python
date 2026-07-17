@@ -40,7 +40,7 @@ mi_lista_2 = [4, 5, 6]
 mi_lista_concatenada = mi_lista_1 + mi_lista_2  
 print(mi_lista_concatenada) # Concatenación de listas
 
-# Manejo de datos en una lista
+# Insertar y Modificar elementos de una Lista
 mi_lista_mixta.append("Nuevo elemento") # Inserta un elemento al final de la lista
 print(mi_lista_mixta)
 mi_lista_mixta.insert(1, "Elemento insertado") # Inserta un elemento en una posición específica de la lista
@@ -48,6 +48,7 @@ print(mi_lista_mixta)
 mi_lista_mixta[1] = "Negro" # Modificando un dato
 print(mi_lista_mixta)
 
+# Eliminar y copiar elementos de una Lista
 mi_lista_mixta.remove("Negro") # Elimina un elemento específico de la lista
 print(mi_lista_mixta)
 print(mi_lista_mixta.pop()) # Elimina el último elemento de la lista
@@ -66,5 +67,7 @@ mi_nueva_lista.reverse()
 print(mi_nueva_lista)
 
 # Ordenar la lista
+mi_nueva_lista = [12,4,15,1,5]
+print(mi_nueva_lista)
 mi_nueva_lista.sort()
 print(mi_nueva_lista)
