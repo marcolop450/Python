@@ -86,4 +86,10 @@ Mi trabajo para creacion de Proyectos Python y aprendizaje
 - Condiciones con strings
 - Prueba de igualdad
 - Uso del Not para negar una condicion T -> F y F -> T
-### 
+### 09_Bucles.py
+- Iniciamos con los bucles While y For
+- En while en Python se puede usar el Else de forma opcional
+- Puede haber dentro de un While un if y para romper un While se usa el break
+- El For en Python se usa para iterar sobre una lista, tupla, set o diccionario
+- Igual que en los While tambien se puede usar un if y un else dentro del ciclo
+- y tambien se puede usar el continue para pasar al siguiente elemento y el break para romper el for
